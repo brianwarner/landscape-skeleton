@@ -1,0 +1,4169 @@
+[
+  {
+    "name": "_ITEM_1A1",
+    "homepage_url": "https://cncf.io/",
+    "project": "_CATEGORY_1A_ID",
+    "repo_url": "https://github.com/cncf/landscape",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+    "github_data": {
+      "languages": [],
+      "contributions": "19;23;21;28;17;15;23;16;17;16;10;12;3;20;17;15;16;20;23;19;20;15;24;20;31;28;25;26;21;22;19;19;17;14;13;21;24;23;17;22;18;15;14;11;12;15;8;5;19;19;11;20",
+      "firstWeek": "2019-02-10Z",
+      "stars": 6096,
+      "license": "Apache License 2.0",
+      "description": "🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.",
+      "latest_commit_date": "2020-02-04T04:16:03Z",
+      "latest_commit_link": "/cncf/landscape/commit/5eef01317dab5a541495aba5d17787018ca57478",
+      "contributors_count": 185,
+      "contributors_link": "https://github.com/cncf/landscape/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/cncf/landscape/commit/35d9c271abaf74cf817a44a3056790f9da56c69b",
+      "start_date": "2016-11-04T19:30:00Z"
+    },
+    "image_data": {
+      "fileName": "item-1-a1.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2016-11-04T19:30:00Z",
+    "firstCommitLink": "https://github.com/cncf/landscape/commit/35d9c271abaf74cf817a44a3056790f9da56c69b",
+    "latestCommitDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-02-04T04:16:03Z"
+    },
+    "latestCommitLink": "https://github.com/cncf/landscape/commit/5eef01317dab5a541495aba5d17787018ca57478",
+    "commitsThisYear": 938,
+    "contributorsCount": 185,
+    "contributorsLink": "https://github.com/cncf/landscape/graphs/contributors",
+    "language": null,
+    "stars": 6096,
+    "license": "Apache License 2.0",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/CloudNativeFdn",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-02-04T19:20:38.000Z"
+    },
+    "description": "🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.",
+    "organization": "Cloud Native Computing Foundation (CNCF)",
+    "crunchbaseData": {
+      "name": "Cloud Native Computing Foundation (CNCF)",
+      "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+      "homepage": "https://www.cncf.io",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/CloudNativeFdn",
+      "linkedin": "https://www.linkedin.com/company/cloud-native-computing-foundation",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": 11,
+      "numEmployeesMax": 50
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1A",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1A",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/item-1-a1.svg",
+    "bestPracticeBadgeId": 1767,
+    "bestPracticePercentage": 100,
+    "id": "item-1-a1",
+    "member": false,
+    "relation": "_CATEGORY_1A_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "_ITEM_1A2",
+    "homepage_url": "https://cncf.io/",
+    "project": "_CATEGORY_1A_ID",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+    "image_data": {
+      "fileName": "item-1-a2.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/CloudNativeFdn",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-02-04T19:20:38.000Z"
+    },
+    "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+    "organization": "Cloud Native Computing Foundation (CNCF)",
+    "crunchbaseData": {
+      "name": "Cloud Native Computing Foundation (CNCF)",
+      "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+      "homepage": "https://www.cncf.io",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/CloudNativeFdn",
+      "linkedin": "https://www.linkedin.com/company/cloud-native-computing-foundation",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": 11,
+      "numEmployeesMax": 50
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1A",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1A",
+    "category": "_CATEGORY_1",
+    "oss": false,
+    "href": "logos/item-1-a2.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "item-1-a2",
+    "member": false,
+    "relation": "_CATEGORY_1A_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "_ITEM_1A3",
+    "homepage_url": "https://cncf.io/",
+    "project": "_CATEGORY_1A_ID",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+    "image_data": {
+      "fileName": "item-1-a3.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/CloudNativeFdn",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-02-04T19:20:38.000Z"
+    },
+    "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+    "organization": "Cloud Native Computing Foundation (CNCF)",
+    "crunchbaseData": {
+      "name": "Cloud Native Computing Foundation (CNCF)",
+      "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+      "homepage": "https://www.cncf.io",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/CloudNativeFdn",
+      "linkedin": "https://www.linkedin.com/company/cloud-native-computing-foundation",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": 11,
+      "numEmployeesMax": 50
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1A",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1A",
+    "category": "_CATEGORY_1",
+    "oss": false,
+    "href": "logos/item-1-a3.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "item-1-a3",
+    "member": false,
+    "relation": "_CATEGORY_1A_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "_ITEM_1B1",
+    "homepage_url": "https://cncf.io/",
+    "project": "_CATEGORY_1B_ID",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+    "image_data": {
+      "fileName": "item-1-b1.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/CloudNativeFdn",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-02-04T19:20:38.000Z"
+    },
+    "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+    "organization": "Cloud Native Computing Foundation (CNCF)",
+    "crunchbaseData": {
+      "name": "Cloud Native Computing Foundation (CNCF)",
+      "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+      "homepage": "https://www.cncf.io",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/CloudNativeFdn",
+      "linkedin": "https://www.linkedin.com/company/cloud-native-computing-foundation",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": 11,
+      "numEmployeesMax": 50
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1B",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1B",
+    "category": "_CATEGORY_1",
+    "oss": false,
+    "href": "logos/item-1-b1.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "item-1-b1",
+    "member": false,
+    "relation": "_CATEGORY_1B_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "_ITEM_1B2",
+    "homepage_url": "https://cncf.io/",
+    "project": "_CATEGORY_1B_ID",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+    "image_data": {
+      "fileName": "item-1-b2.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/CloudNativeFdn",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-02-04T19:20:38.000Z"
+    },
+    "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+    "organization": "Cloud Native Computing Foundation (CNCF)",
+    "crunchbaseData": {
+      "name": "Cloud Native Computing Foundation (CNCF)",
+      "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+      "homepage": "https://www.cncf.io",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/CloudNativeFdn",
+      "linkedin": "https://www.linkedin.com/company/cloud-native-computing-foundation",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": 11,
+      "numEmployeesMax": 50
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1B",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1B",
+    "category": "_CATEGORY_1",
+    "oss": false,
+    "href": "logos/item-1-b2.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "item-1-b2",
+    "member": false,
+    "relation": "_CATEGORY_1B_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "_ITEM_1B3",
+    "homepage_url": "https://cncf.io/",
+    "project": "_CATEGORY_1B_ID",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+    "image_data": {
+      "fileName": "item-1-b3.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/CloudNativeFdn",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-02-04T19:20:38.000Z"
+    },
+    "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+    "organization": "Cloud Native Computing Foundation (CNCF)",
+    "crunchbaseData": {
+      "name": "Cloud Native Computing Foundation (CNCF)",
+      "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+      "homepage": "https://www.cncf.io",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/CloudNativeFdn",
+      "linkedin": "https://www.linkedin.com/company/cloud-native-computing-foundation",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": 11,
+      "numEmployeesMax": 50
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1B",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1B",
+    "category": "_CATEGORY_1",
+    "oss": false,
+    "href": "logos/item-1-b3.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "item-1-b3",
+    "member": false,
+    "relation": "_CATEGORY_1B_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "ESLint",
+    "homepage_url": "https://eslint.org/",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/eslint/eslint",
+    "logo": "placeholder.svg",
+    "twitter": "https://twitter.com/geteslint",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 9532446,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "value": 8940,
+          "color": "#e34c26"
+        }
+      ],
+      "contributions": "16;19;20;8;19;4;14;3;21;6;14;11;12;5;17;9;17;5;9;10;16;3;3;12;8;4;5;7;24;13;16;5;25;9;30;5;10;22;15;10;12;12;17;8;4;5;28;1;12;6;18;10",
+      "firstWeek": "2019-02-03Z",
+      "stars": 15735,
+      "license": "MIT License",
+      "description": "A fully pluggable tool for identifying and reporting on patterns in JavaScript",
+      "latest_commit_date": "2020-01-30T20:03:30Z",
+      "latest_commit_link": "/eslint/eslint/commit/691d19a2872bffab50c0024d488b8cb33504cc83",
+      "release_date": "2020-01-17T16:44:04Z",
+      "release_link": "https://github.com/eslint/eslint/releases",
+      "contributors_count": 750,
+      "contributors_link": "https://github.com/eslint/eslint/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/eslint/eslint/commit/a658d7b0e7d915750f18d666823d54ef2129a9af",
+      "start_date": "2013-06-29T23:48:34Z"
+    },
+    "image_data": {
+      "fileName": "es-lint.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2013-06-29T23:48:34Z",
+    "firstCommitLink": "https://github.com/eslint/eslint/commit/a658d7b0e7d915750f18d666823d54ef2129a9af",
+    "latestCommitDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T20:03:30Z"
+    },
+    "latestCommitLink": "https://github.com/eslint/eslint/commit/691d19a2872bffab50c0024d488b8cb33504cc83",
+    "releaseDate": {
+      "text": "3 weeks ago",
+      "value": "970",
+      "original": "2020-01-17T16:44:04Z"
+    },
+    "releaseLink": "https://github.com/eslint/eslint/releases",
+    "commitsThisYear": 614,
+    "contributorsCount": 750,
+    "contributorsLink": "https://github.com/eslint/eslint/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 15735,
+    "license": "MIT License",
+    "headquarters": "San Francisco, California",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-31T00:40:09.000Z"
+    },
+    "description": "A fully pluggable tool for identifying and reporting on patterns in JavaScript",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/es-lint.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "es-lint",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Esprima",
+    "homepage_url": "https://esprima.org/",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/jquery/esprima",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "TypeScript",
+          "value": 283314,
+          "color": "#2b7489"
+        },
+        {
+          "name": "JavaScript",
+          "value": 130566,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "value": 2059,
+          "color": "#e34c26"
+        }
+      ],
+      "contributions": "0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 5566,
+      "license": "BSD 2-Clause \"Simplified\" License",
+      "description": "ECMAScript parsing infrastructure for multipurpose analysis",
+      "latest_commit_date": "2020-01-08T07:13:31Z",
+      "latest_commit_link": "/jquery/esprima/commit/45c9ab14d96f7f7fa88333fdd897487a8c20082f",
+      "contributors_count": 59,
+      "contributors_link": "https://github.com/jquery/esprima/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/jquery/esprima/commit/d898d25491c826cbb0c17a029e2f50353eee7a3e",
+      "start_date": "2011-11-23T02:29:59Z"
+    },
+    "image_data": {
+      "fileName": "esprima.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2011-11-23T02:29:59Z",
+    "firstCommitLink": "https://github.com/jquery/esprima/commit/d898d25491c826cbb0c17a029e2f50353eee7a3e",
+    "latestCommitDate": {
+      "text": "about a month",
+      "value": "960",
+      "original": "2020-01-08T07:13:31Z"
+    },
+    "latestCommitLink": "https://github.com/jquery/esprima/commit/45c9ab14d96f7f7fa88333fdd897487a8c20082f",
+    "commitsThisYear": 7,
+    "contributorsCount": 59,
+    "contributorsLink": "https://github.com/jquery/esprima/graphs/contributors",
+    "language": "TypeScript",
+    "stars": 5566,
+    "license": "BSD 2-Clause \"Simplified\" License",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "ECMAScript parsing infrastructure for multipurpose analysis",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/esprima.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "esprima",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Express",
+    "homepage_url": "https://expressjs.com/",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/expressjs/express",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 466310,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "Makefile",
+          "value": 201,
+          "color": "#427819"
+        },
+        {
+          "name": "Shell",
+          "value": 196,
+          "color": "#89e051"
+        }
+      ],
+      "contributions": "3;0;0;0;0;0;0;0;0;0;6;2;8;7;9;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 47098,
+      "license": "MIT License",
+      "description": "Fast, unopinionated, minimalist web framework for node.",
+      "latest_commit_date": "2019-05-26T04:24:55Z",
+      "latest_commit_link": "/expressjs/express/commit/e1b45ebd050b6f06aa38cda5aaf0c21708b0c71e",
+      "release_date": "2019-05-26T04:30:04Z",
+      "release_link": "https://github.com/expressjs/express/releases",
+      "contributors_count": 230,
+      "contributors_link": "https://github.com/expressjs/express/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/expressjs/express/commit/9998490f93d3ad3d56c00d23c0aa13fac41c3f6b",
+      "start_date": "2009-06-26T18:56:18Z"
+    },
+    "image_data": {
+      "fileName": "express.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2009-06-26T18:56:18Z",
+    "firstCommitLink": "https://github.com/expressjs/express/commit/9998490f93d3ad3d56c00d23c0aa13fac41c3f6b",
+    "latestCommitDate": {
+      "text": "8 months ago",
+      "value": "890",
+      "original": "2019-05-26T04:24:55Z"
+    },
+    "latestCommitLink": "https://github.com/expressjs/express/commit/e1b45ebd050b6f06aa38cda5aaf0c21708b0c71e",
+    "releaseDate": {
+      "text": "8 months ago",
+      "value": "890",
+      "original": "2019-05-26T04:30:04Z"
+    },
+    "releaseLink": "https://github.com/expressjs/express/releases",
+    "commitsThisYear": 40,
+    "contributorsCount": 230,
+    "contributorsLink": "https://github.com/expressjs/express/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 47098,
+    "license": "MIT License",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "Fast, unopinionated, minimalist web framework for node.",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/express.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "express",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Globalize",
+    "homepage_url": "https://github.com/globalizejs/globalize",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/globalizejs/globalize",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 534156,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "Shell",
+          "value": 4093,
+          "color": "#89e051"
+        },
+        {
+          "name": "HTML",
+          "value": 1389,
+          "color": "#e34c26"
+        }
+      ],
+      "contributions": "0;0;0;0;7;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 4338,
+      "license": "Other",
+      "description": "A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data",
+      "latest_commit_date": "2019-04-17T16:42:17Z",
+      "latest_commit_link": "/globalizejs/globalize/commit/b49471765326294d3e4d4781a8291f2e33411f30",
+      "release_date": "2019-03-07T13:53:41Z",
+      "release_link": "https://github.com/globalizejs/globalize/releases",
+      "contributors_count": 68,
+      "contributors_link": "https://github.com/globalizejs/globalize/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/globalizejs/globalize/commit/3fc4b83d15a3337d5d9e70efebb36a4a8af0f861",
+      "start_date": "2010-05-11T18:54:03Z"
+    },
+    "image_data": {
+      "fileName": "globalize.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2010-05-11T18:54:03Z",
+    "firstCommitLink": "https://github.com/globalizejs/globalize/commit/3fc4b83d15a3337d5d9e70efebb36a4a8af0f861",
+    "latestCommitDate": {
+      "text": "10 months ago",
+      "value": "870",
+      "original": "2019-04-17T16:42:17Z"
+    },
+    "latestCommitLink": "https://github.com/globalizejs/globalize/commit/b49471765326294d3e4d4781a8291f2e33411f30",
+    "releaseDate": {
+      "text": "11 months ago",
+      "value": "860",
+      "original": "2019-03-07T13:53:41Z"
+    },
+    "releaseLink": "https://github.com/globalizejs/globalize/releases",
+    "commitsThisYear": 9,
+    "contributorsCount": 68,
+    "contributorsLink": "https://github.com/globalizejs/globalize/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 4338,
+    "license": "Other",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/globalize.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "globalize",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Grunt",
+    "homepage_url": "https://gruntjs.com/",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/gruntjs/grunt",
+    "logo": "placeholder.svg",
+    "twitter": "https://twitter.com/gruntjs",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 161509,
+          "color": "#f1e05a"
+        }
+      ],
+      "contributions": "0;0;0;0;0;0;0;2;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 11986,
+      "license": "Other",
+      "description": "Grunt: The JavaScript Task Runner",
+      "latest_commit_date": "2019-06-28T14:22:50Z",
+      "latest_commit_link": "/gruntjs/grunt/commit/75da17ba66a017b3b7179b9e42868c31694cf673",
+      "contributors_count": 67,
+      "contributors_link": "https://github.com/gruntjs/grunt/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/gruntjs/grunt/commit/0493335ea6fe2e17cbe236b253139a06eabcbbdd",
+      "start_date": "2011-09-21T15:15:24Z"
+    },
+    "image_data": {
+      "fileName": "grunt.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2011-09-21T15:15:24Z",
+    "firstCommitLink": "https://github.com/gruntjs/grunt/commit/0493335ea6fe2e17cbe236b253139a06eabcbbdd",
+    "latestCommitDate": {
+      "text": "7 months ago",
+      "value": "900",
+      "original": "2019-06-28T14:22:50Z"
+    },
+    "latestCommitLink": "https://github.com/gruntjs/grunt/commit/75da17ba66a017b3b7179b9e42868c31694cf673",
+    "commitsThisYear": 4,
+    "contributorsCount": 67,
+    "contributorsLink": "https://github.com/gruntjs/grunt/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 11986,
+    "license": "Other",
+    "headquarters": "San Francisco, California",
+    "latestTweetDate": "2018-08-16T06:45:21.000Z",
+    "description": "Grunt: The JavaScript Task Runner",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/grunt.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "grunt",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "HospitalRun",
+    "homepage_url": "https://hospitalrun.io/",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/HospitalRun/hospitalrun-frontend",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "TypeScript",
+          "value": 174316,
+          "color": "#2b7489"
+        },
+        {
+          "name": "JavaScript",
+          "value": 3299,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "value": 1688,
+          "color": "#e34c26"
+        },
+        {
+          "name": "CSS",
+          "value": 1687,
+          "color": "#563d7c"
+        },
+        {
+          "name": "Dockerfile",
+          "value": 875,
+          "color": "#384d54"
+        }
+      ],
+      "contributions": "0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;31;0;1;3;0;22;0;0;5;0;30;12;4;6;2;51;19;48;10;28;23;33;43;88;40;54",
+      "firstWeek": "2019-02-03Z",
+      "stars": 4925,
+      "license": "MIT License",
+      "description": "Frontend for HospitalRun",
+      "latest_commit_date": "2020-01-31T08:31:37Z",
+      "latest_commit_link": "/HospitalRun/hospitalrun-frontend/commit/6589ddb3432e046e294f4405721745eae00fc776",
+      "release_date": "2017-05-18T05:03:21Z",
+      "release_link": "https://github.com/HospitalRun/hospitalrun-frontend/releases",
+      "contributors_count": 140,
+      "contributors_link": "https://github.com/HospitalRun/hospitalrun-frontend/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/HospitalRun/hospitalrun-frontend/commit/685bdf7474bd38049de4d43ccf9c074f41ab633f",
+      "start_date": "2014-03-28T20:04:59Z"
+    },
+    "image_data": {
+      "fileName": "hospital-run.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2014-03-28T20:04:59Z",
+    "firstCommitLink": "https://github.com/HospitalRun/hospitalrun-frontend/commit/685bdf7474bd38049de4d43ccf9c074f41ab633f",
+    "latestCommitDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-31T08:31:37Z"
+    },
+    "latestCommitLink": "https://github.com/HospitalRun/hospitalrun-frontend/commit/6589ddb3432e046e294f4405721745eae00fc776",
+    "releaseDate": "2017-05-18T05:03:21Z",
+    "releaseLink": "https://github.com/HospitalRun/hospitalrun-frontend/releases",
+    "commitsThisYear": 556,
+    "contributorsCount": 140,
+    "contributorsLink": "https://github.com/HospitalRun/hospitalrun-frontend/graphs/contributors",
+    "language": "TypeScript",
+    "stars": 4925,
+    "license": "MIT License",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "Frontend for HospitalRun",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/hospital-run.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "hospital-run",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Interledger",
+    "homepage_url": "https://interledger.org/",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/interledger/rfcs",
+    "logo": "placeholder.svg",
+    "twitter": "https://twitter.com/interledger",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "HTML",
+          "value": 10059,
+          "color": "#e34c26"
+        },
+        {
+          "name": "JavaScript",
+          "value": 6990,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "Shell",
+          "value": 4198,
+          "color": "#89e051"
+        }
+      ],
+      "contributions": "0;2;2;5;4;1;8;2;2;1;5;1;0;7;8;0;0;3;0;1;0;0;5;1;0;0;17;9;2;1;0;3;0;3;4;6;3;12;0;0;3;0;0;0;0;0;0;0;0;0;0;1",
+      "firstWeek": "2019-02-03Z",
+      "stars": 314,
+      "license": "Other",
+      "description": "Specifications for Interledger and related protocols (see the table of contents in the README for which ones to read)",
+      "latest_commit_date": "2020-01-29T16:09:16Z",
+      "latest_commit_link": "/interledger/rfcs/commit/4953294f84d148db49bfe80b3441680875bc7802",
+      "contributors_count": 34,
+      "contributors_link": "https://github.com/interledger/rfcs/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/interledger/rfcs/commit/4a3bb825d14a757dc946605d5840beea5ae4fe84",
+      "start_date": "2015-08-31T23:16:03Z"
+    },
+    "image_data": {
+      "fileName": "interledger.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2015-08-31T23:16:03Z",
+    "firstCommitLink": "https://github.com/interledger/rfcs/commit/4a3bb825d14a757dc946605d5840beea5ae4fe84",
+    "latestCommitDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T16:09:16Z"
+    },
+    "latestCommitLink": "https://github.com/interledger/rfcs/commit/4953294f84d148db49bfe80b3441680875bc7802",
+    "commitsThisYear": 122,
+    "contributorsCount": 34,
+    "contributorsLink": "https://github.com/interledger/rfcs/graphs/contributors",
+    "language": "HTML",
+    "stars": 314,
+    "license": "Other",
+    "headquarters": "San Francisco, California",
+    "latestTweetDate": {
+      "text": "2 months ago",
+      "value": "950",
+      "original": "2019-12-11T21:49:10.000Z"
+    },
+    "description": "Specifications for Interledger and related protocols (see the table of contents in the README for which ones to read)",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/interledger.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "interledger",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Jerryscript",
+    "homepage_url": "https://jerryscript.net/",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/jerryscript-project/jerryscript",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "C",
+          "value": 4425226,
+          "color": "#555555"
+        },
+        {
+          "name": "JavaScript",
+          "value": 2302884,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "C++",
+          "value": 360093,
+          "color": "#f34b7d"
+        },
+        {
+          "name": "Python",
+          "value": 215311,
+          "color": "#3572A5"
+        },
+        {
+          "name": "CMake",
+          "value": 58961
+        },
+        {
+          "name": "Shell",
+          "value": 47305,
+          "color": "#89e051"
+        },
+        {
+          "name": "Tcl",
+          "value": 45226,
+          "color": "#e4cc98"
+        },
+        {
+          "name": "Makefile",
+          "value": 12683,
+          "color": "#427819"
+        },
+        {
+          "name": "Assembly",
+          "value": 3218,
+          "color": "#6E4C13"
+        },
+        {
+          "name": "Batchfile",
+          "value": 2634,
+          "color": "#C1F12E"
+        },
+        {
+          "name": "Riot",
+          "value": 2201
+        }
+      ],
+      "contributions": "6;6;4;1;9;4;4;6;7;1;10;10;4;8;6;2;3;1;3;7;11;7;12;13;13;7;8;3;2;12;21;17;15;16;30;9;13;11;21;14;21;21;21;25;15;15;4;0;12;24;9;2",
+      "firstWeek": "2019-02-03Z",
+      "stars": 3881,
+      "license": "Apache License 2.0",
+      "description": "Ultra-lightweight JavaScript engine for the Internet of Things.",
+      "latest_commit_date": "2020-01-28T12:24:30Z",
+      "latest_commit_link": "/jerryscript-project/jerryscript/commit/2fe06f82f134c82ef5d5fa9b48404730f925b137",
+      "release_date": "2019-10-16T13:32:09Z",
+      "release_link": "https://github.com/jerryscript-project/jerryscript/releases",
+      "contributors_count": 91,
+      "contributors_link": "https://github.com/jerryscript-project/jerryscript/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/jerryscript-project/jerryscript/commit/1bf48a4c5114732d7eb68250db0fcb15276525c9",
+      "start_date": "2014-07-01T11:51:35Z"
+    },
+    "image_data": {
+      "fileName": "jerryscript.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2014-07-01T11:51:35Z",
+    "firstCommitLink": "https://github.com/jerryscript-project/jerryscript/commit/1bf48a4c5114732d7eb68250db0fcb15276525c9",
+    "latestCommitDate": {
+      "text": "last week",
+      "value": "980",
+      "original": "2020-01-28T12:24:30Z"
+    },
+    "latestCommitLink": "https://github.com/jerryscript-project/jerryscript/commit/2fe06f82f134c82ef5d5fa9b48404730f925b137",
+    "releaseDate": {
+      "text": "4 months ago",
+      "value": "930",
+      "original": "2019-10-16T13:32:09Z"
+    },
+    "releaseLink": "https://github.com/jerryscript-project/jerryscript/releases",
+    "commitsThisYear": 526,
+    "contributorsCount": 91,
+    "contributorsLink": "https://github.com/jerryscript-project/jerryscript/graphs/contributors",
+    "language": "C",
+    "stars": 3881,
+    "license": "Apache License 2.0",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "Ultra-lightweight JavaScript engine for the Internet of Things.",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/jerryscript.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "jerryscript",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "libuv",
+    "homepage_url": "https://libuv.org/",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/libuv/libuv",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "C",
+          "value": 2633939,
+          "color": "#555555"
+        },
+        {
+          "name": "C++",
+          "value": 51314,
+          "color": "#f34b7d"
+        },
+        {
+          "name": "Python",
+          "value": 30809,
+          "color": "#3572A5"
+        },
+        {
+          "name": "Makefile",
+          "value": 21164,
+          "color": "#427819"
+        },
+        {
+          "name": "M4",
+          "value": 15158
+        },
+        {
+          "name": "CMake",
+          "value": 13461
+        },
+        {
+          "name": "Batchfile",
+          "value": 7502,
+          "color": "#C1F12E"
+        },
+        {
+          "name": "Shell",
+          "value": 4184,
+          "color": "#89e051"
+        }
+      ],
+      "contributions": "6;8;15;3;3;1;6;7;1;6;6;7;3;5;3;10;1;2;6;6;8;8;4;1;3;4;4;11;5;2;3;16;5;2;7;5;10;7;1;0;0;7;4;5;2;12;1;2;12;8;9;1",
+      "firstWeek": "2019-02-03Z",
+      "stars": 14362,
+      "license": "Other",
+      "description": "Cross-platform asynchronous I/O",
+      "latest_commit_date": "2019-11-29T23:53:02Z",
+      "latest_commit_link": "/libuv/libuv/commit/a629688008694ed8022269e66826d4d6ec688b83",
+      "contributors_count": 361,
+      "contributors_link": "https://github.com/libuv/libuv/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/libuv/libuv/commit/133b4e3999221ba654744262cb065c3aafce3312",
+      "start_date": "2011-03-23T08:39:59Z"
+    },
+    "image_data": {
+      "fileName": "libuv.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2011-03-23T08:39:59Z",
+    "firstCommitLink": "https://github.com/libuv/libuv/commit/133b4e3999221ba654744262cb065c3aafce3312",
+    "latestCommitDate": {
+      "text": "2 months ago",
+      "value": "950",
+      "original": "2019-11-29T23:53:02Z"
+    },
+    "latestCommitLink": "https://github.com/libuv/libuv/commit/a629688008694ed8022269e66826d4d6ec688b83",
+    "commitsThisYear": 274,
+    "contributorsCount": 361,
+    "contributorsLink": "https://github.com/libuv/libuv/graphs/contributors",
+    "language": "C",
+    "stars": 14362,
+    "license": "Other",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "Cross-platform asynchronous I/O",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/libuv.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "libuv",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Lodash",
+    "homepage_url": "https://lodash.com/",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/lodash/lodash",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 1058779,
+          "color": "#f1e05a"
+        }
+      ],
+      "contributions": "0;3;1;0;0;1;1;0;0;0;2;0;1;0;0;0;0;0;1;0;2;2;0;0;2;0;0;2;14;6;2;0;0;1;2;0;1;0;0;1;1;1;0;0;0;0;0;0;1;0;1;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 43347,
+      "license": "Other",
+      "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+      "latest_commit_date": "2020-01-22T21:07:54Z",
+      "latest_commit_link": "/lodash/lodash/commit/3f585df05c68464acbdb63ff3c34ac9efed2a517",
+      "release_date": "2016-01-12T22:35:11Z",
+      "release_link": "https://github.com/lodash/lodash/releases",
+      "contributors_count": 286,
+      "contributors_link": "https://github.com/lodash/lodash/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/lodash/lodash/commit/02ede85b539a89a44a71ce098f09a9553a3a6890",
+      "start_date": "2009-10-25T18:36:12Z"
+    },
+    "image_data": {
+      "fileName": "lodash.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2009-10-25T18:36:12Z",
+    "firstCommitLink": "https://github.com/lodash/lodash/commit/02ede85b539a89a44a71ce098f09a9553a3a6890",
+    "latestCommitDate": {
+      "text": "last week",
+      "value": "980",
+      "original": "2020-01-22T21:07:54Z"
+    },
+    "latestCommitLink": "https://github.com/lodash/lodash/commit/3f585df05c68464acbdb63ff3c34ac9efed2a517",
+    "releaseDate": "2016-01-12T22:35:11Z",
+    "releaseLink": "https://github.com/lodash/lodash/releases",
+    "commitsThisYear": 49,
+    "contributorsCount": 286,
+    "contributorsLink": "https://github.com/lodash/lodash/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 43347,
+    "license": "Other",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/lodash.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "lodash",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Marko",
+    "homepage_url": "https://markojs.com/",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/marko-js/marko",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 1942498,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "value": 747457,
+          "color": "#e34c26"
+        },
+        {
+          "name": "Vue",
+          "value": 861,
+          "color": "#2c3e50"
+        },
+        {
+          "name": "CSS",
+          "value": 31,
+          "color": "#563d7c"
+        }
+      ],
+      "contributions": "11;4;12;0;10;11;15;9;12;2;6;7;3;1;10;16;4;10;6;9;15;17;14;5;1;2;6;3;0;4;4;0;6;0;0;0;10;3;18;11;0;3;8;0;3;2;0;2;6;13;5;16",
+      "firstWeek": "2019-02-03Z",
+      "stars": 9374,
+      "license": "MIT License",
+      "description": "A declarative, HTML-based language that makes building web apps fun",
+      "latest_commit_date": "2020-01-30T20:30:34Z",
+      "latest_commit_link": "/marko-js/marko/commit/369e541a9f5341ea2807aeb413c7adf6a630dcd2",
+      "contributors_count": 96,
+      "contributors_link": "https://github.com/marko-js/marko/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/marko-js/marko/commit/ff475c6e62b01096712d396c9515d31c8e4992cd",
+      "start_date": "2014-01-07T23:59:30Z"
+    },
+    "image_data": {
+      "fileName": "marko.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2014-01-07T23:59:30Z",
+    "firstCommitLink": "https://github.com/marko-js/marko/commit/ff475c6e62b01096712d396c9515d31c8e4992cd",
+    "latestCommitDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T20:30:34Z"
+    },
+    "latestCommitLink": "https://github.com/marko-js/marko/commit/369e541a9f5341ea2807aeb413c7adf6a630dcd2",
+    "commitsThisYear": 335,
+    "contributorsCount": 96,
+    "contributorsLink": "https://github.com/marko-js/marko/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 9374,
+    "license": "MIT License",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "A declarative, HTML-based language that makes building web apps fun",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/marko.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "marko",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Messageformat",
+    "homepage_url": "https://messageformat.github.io/messageformat/",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/messageformat/messageformat",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 133072,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "value": 1823,
+          "color": "#e34c26"
+        },
+        {
+          "name": "Shell",
+          "value": 344,
+          "color": "#89e051"
+        }
+      ],
+      "contributions": "0;0;0;7;2;0;0;1;0;23;10;2;7;0;1;1;1;0;0;2;0;15;1;9;0;0;21;0;0;7;22;0;0;1;0;7;20;4;0;1;1;0;0;1;0;2;0;0;0;0;0;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 1427,
+      "license": "MIT License",
+      "description": "ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages",
+      "latest_commit_date": "2019-12-14T18:49:16Z",
+      "latest_commit_link": "/messageformat/messageformat/commit/574e620b2ea23f97a756e5aabb941e49cfb56b67",
+      "release_date": "2018-12-15T23:05:16Z",
+      "release_link": "https://github.com/messageformat/messageformat/releases",
+      "contributors_count": 46,
+      "contributors_link": "https://github.com/messageformat/messageformat/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/messageformat/messageformat/commit/7b8cf2bcccdd979f84403e3e299672c2ce69565b",
+      "start_date": "2012-01-25T12:56:55Z"
+    },
+    "image_data": {
+      "fileName": "messageformat.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2012-01-25T12:56:55Z",
+    "firstCommitLink": "https://github.com/messageformat/messageformat/commit/7b8cf2bcccdd979f84403e3e299672c2ce69565b",
+    "latestCommitDate": {
+      "text": "2 months ago",
+      "value": "950",
+      "original": "2019-12-14T18:49:16Z"
+    },
+    "latestCommitLink": "https://github.com/messageformat/messageformat/commit/574e620b2ea23f97a756e5aabb941e49cfb56b67",
+    "releaseDate": "2018-12-15T23:05:16Z",
+    "releaseLink": "https://github.com/messageformat/messageformat/releases",
+    "commitsThisYear": 169,
+    "contributorsCount": 46,
+    "contributorsLink": "https://github.com/messageformat/messageformat/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 1427,
+    "license": "MIT License",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/messageformat.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "messageformat",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Moment.js",
+    "homepage_url": "https://momentjs.com/",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/moment/moment",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 8563313,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "TypeScript",
+          "value": 13702,
+          "color": "#2b7489"
+        },
+        {
+          "name": "Shell",
+          "value": 739,
+          "color": "#89e051"
+        }
+      ],
+      "contributions": "1;1;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 43256,
+      "license": "MIT License",
+      "description": "Parse, validate, manipulate, and display dates in javascript.",
+      "latest_commit_date": "2019-06-10T08:05:56Z",
+      "latest_commit_link": "/moment/moment/commit/13a61b285c095bda7ea8e33156090ea5ccfeaef1",
+      "contributors_count": 487,
+      "contributors_link": "https://github.com/moment/moment/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/moment/moment/commit/52e2408c33bcedf9907f987b7b95aa7efbfeb7bc",
+      "start_date": "2011-03-01T02:53:16Z"
+    },
+    "image_data": {
+      "fileName": "moment-js.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2011-03-01T02:53:16Z",
+    "firstCommitLink": "https://github.com/moment/moment/commit/52e2408c33bcedf9907f987b7b95aa7efbfeb7bc",
+    "latestCommitDate": {
+      "text": "8 months ago",
+      "value": "890",
+      "original": "2019-06-10T08:05:56Z"
+    },
+    "latestCommitLink": "https://github.com/moment/moment/commit/13a61b285c095bda7ea8e33156090ea5ccfeaef1",
+    "commitsThisYear": 7,
+    "contributorsCount": 487,
+    "contributorsLink": "https://github.com/moment/moment/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 43256,
+    "license": "MIT License",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "Parse, validate, manipulate, and display dates in javascript.",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/moment-js.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "moment-js",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "PEP",
+    "homepage_url": "https://github.com/jquery/pep",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/jquery/pep",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 83577,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "value": 164,
+          "color": "#e34c26"
+        }
+      ],
+      "contributions": "1;0;0;0;0;0;0;0;13;4;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 1554,
+      "license": "Other",
+      "description": "Pointer Events Polyfill: a unified event system for the web platform",
+      "latest_commit_date": "2019-06-13T18:00:56Z",
+      "latest_commit_link": "/jquery/PEP/commit/8dac8558c13c6208ca3ad9f22df1878fc347e1e3",
+      "release_date": "2017-05-07T14:05:37Z",
+      "release_link": "https://github.com/jquery/pep/releases",
+      "contributors_count": 38,
+      "contributors_link": "https://github.com/jquery/pep/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/jquery/PEP/commit/fede3e7b0078d53d6ed2cb4f236b6179d4b1956c",
+      "start_date": "2012-08-23T22:58:12Z"
+    },
+    "image_data": {
+      "fileName": "pep.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2012-08-23T22:58:12Z",
+    "firstCommitLink": "https://github.com/jquery/PEP/commit/fede3e7b0078d53d6ed2cb4f236b6179d4b1956c",
+    "latestCommitDate": {
+      "text": "8 months ago",
+      "value": "890",
+      "original": "2019-06-13T18:00:56Z"
+    },
+    "latestCommitLink": "https://github.com/jquery/PEP/commit/8dac8558c13c6208ca3ad9f22df1878fc347e1e3",
+    "releaseDate": "2017-05-07T14:05:37Z",
+    "releaseLink": "https://github.com/jquery/pep/releases",
+    "commitsThisYear": 20,
+    "contributorsCount": 38,
+    "contributorsLink": "https://github.com/jquery/pep/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 1554,
+    "license": "Other",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "Pointer Events Polyfill: a unified event system for the web platform",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/pep.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "pep",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "QUnit",
+    "homepage_url": "https://qunitjs.com/",
+    "project": "_CATEGORY_1C_ID",
+    "repo_url": "https://github.com/qunitjs/qunit",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 392436,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "value": 18665,
+          "color": "#e34c26"
+        },
+        {
+          "name": "CSS",
+          "value": 7992,
+          "color": "#563d7c"
+        }
+      ],
+      "contributions": "0;0;5;1;1;0;0;0;0;1;1;0;0;0;0;0;1;0;0;2;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1",
+      "firstWeek": "2019-02-03Z",
+      "stars": 3832,
+      "license": "Other",
+      "description": "An easy-to-use JavaScript Unit Testing framework.",
+      "latest_commit_date": "2020-01-26T03:45:49Z",
+      "latest_commit_link": "/qunitjs/qunit/commit/254fccbb34a940334c2001e419f936f4b56db812",
+      "release_date": "2019-10-08T15:56:04Z",
+      "release_link": "https://github.com/qunitjs/qunit/releases",
+      "contributors_count": 149,
+      "contributors_link": "https://github.com/qunitjs/qunit/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/qunitjs/qunit/commit/bc616098c26b60eaf67a458db59c8a6164036277",
+      "start_date": "2008-05-08T19:25:39Z"
+    },
+    "image_data": {
+      "fileName": "q-unit.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2008-05-08T19:25:39Z",
+    "firstCommitLink": "https://github.com/qunitjs/qunit/commit/bc616098c26b60eaf67a458db59c8a6164036277",
+    "latestCommitDate": {
+      "text": "last week",
+      "value": "980",
+      "original": "2020-01-26T03:45:49Z"
+    },
+    "latestCommitLink": "https://github.com/qunitjs/qunit/commit/254fccbb34a940334c2001e419f936f4b56db812",
+    "releaseDate": {
+      "text": "4 months ago",
+      "value": "930",
+      "original": "2019-10-08T15:56:04Z"
+    },
+    "releaseLink": "https://github.com/qunitjs/qunit/releases",
+    "commitsThisYear": 23,
+    "contributorsCount": 149,
+    "contributorsLink": "https://github.com/qunitjs/qunit/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 3832,
+    "license": "Other",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "An easy-to-use JavaScript Unit Testing framework.",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1C",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1C",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/q-unit.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "q-unit",
+    "member": false,
+    "relation": "_CATEGORY_1C_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "AMP",
+    "homepage_url": "https://amp.dev/",
+    "project": "_CATEGORY_1D_ID",
+    "repo_url": "https://github.com/ampproject/amphtml",
+    "logo": "placeholder.svg",
+    "twitter": "https://twitter.com/AMPhtml",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 17323082,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "value": 2127270,
+          "color": "#e34c26"
+        },
+        {
+          "name": "Java",
+          "value": 872367,
+          "color": "#b07219"
+        },
+        {
+          "name": "CSS",
+          "value": 479663,
+          "color": "#563d7c"
+        },
+        {
+          "name": "Python",
+          "value": 74471,
+          "color": "#3572A5"
+        },
+        {
+          "name": "Yacc",
+          "value": 23470,
+          "color": "#4B6C4B"
+        },
+        {
+          "name": "Shell",
+          "value": 19697,
+          "color": "#89e051"
+        },
+        {
+          "name": "Go",
+          "value": 7443,
+          "color": "#00ADD8"
+        },
+        {
+          "name": "Starlark",
+          "value": 5262
+        }
+      ],
+      "contributions": "56;74;66;130;56;43;51;42;52;58;31;51;78;67;71;86;60;68;38;68;78;50;63;69;92;62;116;85;103;70;45;47;71;49;83;51;44;84;60;61;51;52;33;57;62;50;21;23;58;64;53;44",
+      "firstWeek": "2019-02-03Z",
+      "stars": 13414,
+      "license": "Apache License 2.0",
+      "description": "The AMP web component framework.",
+      "latest_commit_date": "2020-01-30T19:40:52Z",
+      "latest_commit_link": "/ampproject/amphtml/commit/dd33fa594f15af548eef7d34f6fdd5ce3a050ee6",
+      "release_date": "2020-01-24T16:29:15Z",
+      "release_link": "https://github.com/ampproject/amphtml/releases",
+      "contributors_count": 822,
+      "contributors_link": "https://github.com/ampproject/amphtml/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/ampproject/amphtml/commit/5f414868caf5f431ebe64f840d6b1de6464085c4",
+      "start_date": "2015-09-02T23:03:45Z"
+    },
+    "image_data": {
+      "fileName": "amp.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2015-09-02T23:03:45Z",
+    "firstCommitLink": "https://github.com/ampproject/amphtml/commit/5f414868caf5f431ebe64f840d6b1de6464085c4",
+    "latestCommitDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T19:40:52Z"
+    },
+    "latestCommitLink": "https://github.com/ampproject/amphtml/commit/dd33fa594f15af548eef7d34f6fdd5ce3a050ee6",
+    "releaseDate": {
+      "text": "last week",
+      "value": "980",
+      "original": "2020-01-24T16:29:15Z"
+    },
+    "releaseLink": "https://github.com/ampproject/amphtml/releases",
+    "commitsThisYear": 3197,
+    "contributorsCount": 822,
+    "contributorsLink": "https://github.com/ampproject/amphtml/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 13414,
+    "license": "Apache License 2.0",
+    "headquarters": "San Francisco, California",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T20:11:22.000Z"
+    },
+    "description": "The AMP web component framework.",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1D",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1D",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/amp.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "amp",
+    "member": false,
+    "relation": "_CATEGORY_1D_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Electron",
+    "homepage_url": "https://www.electronjs.org/",
+    "project": "_CATEGORY_1D_ID",
+    "repo_url": "https://github.com/electron/electron",
+    "logo": "placeholder.svg",
+    "twitter": "https://twitter.com/electronjs",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "C++",
+          "value": 2670870,
+          "color": "#f34b7d"
+        },
+        {
+          "name": "TypeScript",
+          "value": 968877,
+          "color": "#2b7489"
+        },
+        {
+          "name": "JavaScript",
+          "value": 521412,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "Objective-C++",
+          "value": 336017,
+          "color": "#6866fb"
+        },
+        {
+          "name": "HTML",
+          "value": 154747,
+          "color": "#e34c26"
+        },
+        {
+          "name": "Python",
+          "value": 114258,
+          "color": "#3572A5"
+        },
+        {
+          "name": "Objective-C",
+          "value": 37487,
+          "color": "#438eff"
+        },
+        {
+          "name": "Shell",
+          "value": 22669,
+          "color": "#89e051"
+        },
+        {
+          "name": "Batchfile",
+          "value": 2734,
+          "color": "#C1F12E"
+        },
+        {
+          "name": "CSS",
+          "value": 2471,
+          "color": "#563d7c"
+        },
+        {
+          "name": "C",
+          "value": 1255,
+          "color": "#555555"
+        },
+        {
+          "name": "PowerShell",
+          "value": 600,
+          "color": "#012456"
+        },
+        {
+          "name": "CoffeeScript",
+          "value": 21,
+          "color": "#244776"
+        }
+      ],
+      "contributions": "67;78;39;52;39;63;41;49;29;6;20;33;57;29;23;62;35;54;30;64;28;43;31;53;52;54;35;35;37;54;36;19;32;18;23;46;31;41;35;47;33;28;23;25;24;35;8;10;19;37;29;40",
+      "firstWeek": "2019-02-03Z",
+      "stars": 80401,
+      "license": "MIT License",
+      "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "latest_commit_date": "2020-01-31T05:50:05Z",
+      "latest_commit_link": "/electron/electron/commit/e8517065d14cb292e2bb96a9132b780d166f2b90",
+      "release_date": "2020-01-30T04:55:05Z",
+      "release_link": "https://github.com/electron/electron/releases",
+      "contributors_count": 924,
+      "contributors_link": "https://github.com/electron/electron/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/electron/electron/commit/e451d9212179197b88abeb752602de3859bb1765",
+      "start_date": "2013-03-13T19:12:05Z"
+    },
+    "image_data": {
+      "fileName": "electron.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2013-03-13T19:12:05Z",
+    "firstCommitLink": "https://github.com/electron/electron/commit/e451d9212179197b88abeb752602de3859bb1765",
+    "latestCommitDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-31T05:50:05Z"
+    },
+    "latestCommitLink": "https://github.com/electron/electron/commit/e8517065d14cb292e2bb96a9132b780d166f2b90",
+    "releaseDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T04:55:05Z"
+    },
+    "releaseLink": "https://github.com/electron/electron/releases",
+    "commitsThisYear": 1931,
+    "contributorsCount": 924,
+    "contributorsLink": "https://github.com/electron/electron/graphs/contributors",
+    "language": "C++",
+    "stars": 80401,
+    "license": "MIT License",
+    "headquarters": "San Francisco, California",
+    "latestTweetDate": {
+      "text": "last week",
+      "value": "980",
+      "original": "2020-01-22T19:23:55.000Z"
+    },
+    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1D",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1D",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/electron.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "electron",
+    "member": false,
+    "relation": "_CATEGORY_1D_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Fastify",
+    "homepage_url": "https://www.fastify.io/",
+    "project": "_CATEGORY_1D_ID",
+    "repo_url": "https://github.com/fastify/fastify",
+    "logo": "placeholder.svg",
+    "twitter": "https://twitter.com/fastifyjs",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 712584,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "TypeScript",
+          "value": 19509,
+          "color": "#2b7489"
+        },
+        {
+          "name": "Shell",
+          "value": 283,
+          "color": "#89e051"
+        }
+      ],
+      "contributions": "11;4;6;13;13;16;6;4;6;9;9;3;5;3;11;10;1;3;8;0;7;2;3;4;9;6;3;4;5;5;6;5;3;11;5;5;2;7;3;3;5;2;5;6;4;3;11;1;8;0;3;6",
+      "firstWeek": "2019-02-03Z",
+      "stars": 13348,
+      "license": "Other",
+      "description": "Fast and low overhead web framework, for Node.js",
+      "latest_commit_date": "2020-01-30T20:18:27Z",
+      "latest_commit_link": "/fastify/fastify/commit/7fa4bddca07aac18e0600cff40d97b95a96ab970",
+      "release_date": "2019-12-08T10:28:13Z",
+      "release_link": "https://github.com/fastify/fastify/releases",
+      "contributors_count": 209,
+      "contributors_link": "https://github.com/fastify/fastify/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/fastify/fastify/commit/050ede23986f7d2885fbfe47cacab9ecc3e8d9b1",
+      "start_date": "2016-09-28T19:10:15Z"
+    },
+    "image_data": {
+      "fileName": "fastify.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2016-09-28T19:10:15Z",
+    "firstCommitLink": "https://github.com/fastify/fastify/commit/050ede23986f7d2885fbfe47cacab9ecc3e8d9b1",
+    "latestCommitDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T20:18:27Z"
+    },
+    "latestCommitLink": "https://github.com/fastify/fastify/commit/7fa4bddca07aac18e0600cff40d97b95a96ab970",
+    "releaseDate": {
+      "text": "2 months ago",
+      "value": "950",
+      "original": "2019-12-08T10:28:13Z"
+    },
+    "releaseLink": "https://github.com/fastify/fastify/releases",
+    "commitsThisYear": 293,
+    "contributorsCount": 209,
+    "contributorsLink": "https://github.com/fastify/fastify/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 13348,
+    "license": "Other",
+    "headquarters": "San Francisco, California",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T11:31:05.000Z"
+    },
+    "description": "Fast and low overhead web framework, for Node.js",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1D",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1D",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/fastify.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "fastify",
+    "member": false,
+    "relation": "_CATEGORY_1D_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "nvm",
+    "homepage_url": "https://github.com/nvm-sh/nvm",
+    "project": "_CATEGORY_1D_ID",
+    "repo_url": "https://github.com/nvm-sh/nvm",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "Shell",
+          "value": 318340,
+          "color": "#89e051"
+        },
+        {
+          "name": "Makefile",
+          "value": 5364,
+          "color": "#427819"
+        },
+        {
+          "name": "Dockerfile",
+          "value": 4043,
+          "color": "#384d54"
+        },
+        {
+          "name": "JavaScript",
+          "value": 38,
+          "color": "#f1e05a"
+        }
+      ],
+      "contributions": "0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;1;0;3;2;1;0;1;1;2;0;0;0;1;0;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 39512,
+      "license": "MIT License",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "latest_commit_date": "2020-01-12T02:15:20Z",
+      "latest_commit_link": "/nvm-sh/nvm/commit/a1ad32e9cbc9ab2b1f955e0c7ab6e206cdfdd75c",
+      "release_date": "2019-12-18T06:43:35Z",
+      "release_link": "https://github.com/nvm-sh/nvm/releases",
+      "contributors_count": 249,
+      "contributors_link": "https://github.com/nvm-sh/nvm/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/nvm-sh/nvm/commit/9cd2dd0c375d433468b3a23f480d4f2ca0b820bc",
+      "start_date": "2010-04-15T16:13:33Z"
+    },
+    "image_data": {
+      "fileName": "nvm.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2010-04-15T16:13:33Z",
+    "firstCommitLink": "https://github.com/nvm-sh/nvm/commit/9cd2dd0c375d433468b3a23f480d4f2ca0b820bc",
+    "latestCommitDate": {
+      "text": "about a month",
+      "value": "960",
+      "original": "2020-01-12T02:15:20Z"
+    },
+    "latestCommitLink": "https://github.com/nvm-sh/nvm/commit/a1ad32e9cbc9ab2b1f955e0c7ab6e206cdfdd75c",
+    "releaseDate": {
+      "text": "2 months ago",
+      "value": "950",
+      "original": "2019-12-18T06:43:35Z"
+    },
+    "releaseLink": "https://github.com/nvm-sh/nvm/releases",
+    "commitsThisYear": 16,
+    "contributorsCount": 249,
+    "contributorsLink": "https://github.com/nvm-sh/nvm/graphs/contributors",
+    "language": "Shell",
+    "stars": 39512,
+    "license": "MIT License",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1D",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1D",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/nvm.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "nvm",
+    "member": false,
+    "relation": "_CATEGORY_1D_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Chassis",
+    "homepage_url": "https://github.com/jquery/css-chassis",
+    "project": "_CATEGORY_1E_ID",
+    "repo_url": "https://github.com/jquery/css-chassis",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 21626,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "value": 18891,
+          "color": "#e34c26"
+        },
+        {
+          "name": "CSS",
+          "value": 9589,
+          "color": "#563d7c"
+        }
+      ],
+      "contributions": "0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 333,
+      "license": "Other",
+      "description": "An attempt at creating an open standard for both CSS and JavaScript UI libraries.",
+      "latest_commit_date": "2016-10-05T18:24:37Z",
+      "latest_commit_link": "/jquery/css-chassis/commit/66e5b358524929657cca850856493b2060598aef",
+      "contributors_count": 21,
+      "contributors_link": "https://github.com/jquery/css-chassis/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/jquery/css-chassis/commit/509d0c41172aba7c9f2ae151cf1705b4854e37e5",
+      "start_date": "2014-11-03T13:42:59Z"
+    },
+    "image_data": {
+      "fileName": "chassis.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2014-11-03T13:42:59Z",
+    "firstCommitLink": "https://github.com/jquery/css-chassis/commit/509d0c41172aba7c9f2ae151cf1705b4854e37e5",
+    "latestCommitDate": "2016-10-05T18:24:37Z",
+    "latestCommitLink": "https://github.com/jquery/css-chassis/commit/66e5b358524929657cca850856493b2060598aef",
+    "commitsThisYear": 0,
+    "contributorsCount": 21,
+    "contributorsLink": "https://github.com/jquery/css-chassis/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 333,
+    "license": "Other",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "An attempt at creating an open standard for both CSS and JavaScript UI libraries.",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1D",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1D",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/chassis.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "chassis",
+    "member": false,
+    "relation": "_CATEGORY_1E_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "jQuery Mobile",
+    "homepage_url": "https://jquerymobile.com/",
+    "project": "_CATEGORY_1E_ID",
+    "repo_url": "https://github.com/jquery/jquery-mobile",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 1161056,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "value": 392452,
+          "color": "#e34c26"
+        },
+        {
+          "name": "CSS",
+          "value": 164084,
+          "color": "#563d7c"
+        },
+        {
+          "name": "PHP",
+          "value": 5743,
+          "color": "#4F5D95"
+        },
+        {
+          "name": "Hack",
+          "value": 1180,
+          "color": "#878787"
+        }
+      ],
+      "contributions": "0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 9927,
+      "license": "Other",
+      "description": "jQuery Mobile Framework",
+      "latest_commit_date": "2019-06-14T17:54:59Z",
+      "latest_commit_link": "/jquery/jquery-mobile/commit/4a6395df87acc4065ba39c3ab17d419fdc1a585b",
+      "contributors_count": 231,
+      "contributors_link": "https://github.com/jquery/jquery-mobile/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/jquery/jquery-mobile/commit/1d0fd4a7d8b852e10dfe91cd2920579ea4c30cc3",
+      "start_date": "2010-09-10T22:23:13Z"
+    },
+    "image_data": {
+      "fileName": "j-query-mobile.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2010-09-10T22:23:13Z",
+    "firstCommitLink": "https://github.com/jquery/jquery-mobile/commit/1d0fd4a7d8b852e10dfe91cd2920579ea4c30cc3",
+    "latestCommitDate": {
+      "text": "8 months ago",
+      "value": "890",
+      "original": "2019-06-14T17:54:59Z"
+    },
+    "latestCommitLink": "https://github.com/jquery/jquery-mobile/commit/4a6395df87acc4065ba39c3ab17d419fdc1a585b",
+    "commitsThisYear": 4,
+    "contributorsCount": 231,
+    "contributorsLink": "https://github.com/jquery/jquery-mobile/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 9927,
+    "license": "Other",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "jQuery Mobile Framework",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1D",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1D",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/j-query-mobile.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "j-query-mobile",
+    "member": false,
+    "relation": "_CATEGORY_1E_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "jQuery User Interface",
+    "homepage_url": "https://jqueryui.com/",
+    "project": "_CATEGORY_1E_ID",
+    "repo_url": "https://github.com/jquery/jquery-ui",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 1456342,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "value": 155332,
+          "color": "#e34c26"
+        },
+        {
+          "name": "CSS",
+          "value": 42612,
+          "color": "#563d7c"
+        }
+      ],
+      "contributions": "0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;1;0;0;1;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 10756,
+      "license": "Other",
+      "description": "The official jQuery user interface library.",
+      "latest_commit_date": "2020-01-22T15:44:34Z",
+      "latest_commit_link": "/jquery/jquery-ui/commit/0c860b0d92f9959f6747f8c02e9671eb2fc561aa",
+      "contributors_count": 307,
+      "contributors_link": "https://github.com/jquery/jquery-ui/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/jquery/jquery-ui/commit/b04b02b3eec0293255e8f5cca25b952f95e82c26",
+      "start_date": "2008-05-22T14:54:30Z"
+    },
+    "image_data": {
+      "fileName": "j-query-user-interface.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2008-05-22T14:54:30Z",
+    "firstCommitLink": "https://github.com/jquery/jquery-ui/commit/b04b02b3eec0293255e8f5cca25b952f95e82c26",
+    "latestCommitDate": {
+      "text": "last week",
+      "value": "980",
+      "original": "2020-01-22T15:44:34Z"
+    },
+    "latestCommitLink": "https://github.com/jquery/jquery-ui/commit/0c860b0d92f9959f6747f8c02e9671eb2fc561aa",
+    "commitsThisYear": 7,
+    "contributorsCount": 307,
+    "contributorsLink": "https://github.com/jquery/jquery-ui/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 10756,
+    "license": "Other",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "The official jQuery user interface library.",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1D",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1D",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/j-query-user-interface.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "j-query-user-interface",
+    "member": false,
+    "relation": "_CATEGORY_1E_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "RequireJS",
+    "homepage_url": "https://requirejs.org/",
+    "project": "_CATEGORY_1E_ID",
+    "repo_url": "https://github.com/requirejs/requirejs",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 334251,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "value": 155214,
+          "color": "#e34c26"
+        },
+        {
+          "name": "Shell",
+          "value": 2380,
+          "color": "#89e051"
+        }
+      ],
+      "contributions": "0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 12446,
+      "license": "Other",
+      "description": "A file and module loader for JavaScript",
+      "latest_commit_date": "2019-05-18T19:22:06Z",
+      "latest_commit_link": "/requirejs/requirejs/commit/fdf4186d3e68df06a04bd71cb6ea0f24eb1600d1",
+      "contributors_count": 101,
+      "contributors_link": "https://github.com/requirejs/requirejs/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/requirejs/requirejs/commit/d7ce62d5189818bcf1fab46b30e91f6d059d62bb",
+      "start_date": "2009-09-28T05:32:33Z"
+    },
+    "image_data": {
+      "fileName": "require-js.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2009-09-28T05:32:33Z",
+    "firstCommitLink": "https://github.com/requirejs/requirejs/commit/d7ce62d5189818bcf1fab46b30e91f6d059d62bb",
+    "latestCommitDate": {
+      "text": "9 months ago",
+      "value": "880",
+      "original": "2019-05-18T19:22:06Z"
+    },
+    "latestCommitLink": "https://github.com/requirejs/requirejs/commit/fdf4186d3e68df06a04bd71cb6ea0f24eb1600d1",
+    "commitsThisYear": 2,
+    "contributorsCount": 101,
+    "contributorsLink": "https://github.com/requirejs/requirejs/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 12446,
+    "license": "Other",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "A file and module loader for JavaScript",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1D",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1D",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/require-js.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "require-js",
+    "member": false,
+    "relation": "_CATEGORY_1E_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Sizzle",
+    "homepage_url": "https://github.com/jquery/sizzle/wiki",
+    "project": "_CATEGORY_1E_ID",
+    "repo_url": "https://github.com/jquery/sizzle",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/open-js-foundation",
+    "github_data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "value": 206761,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "value": 149264,
+          "color": "#e34c26"
+        },
+        {
+          "name": "CSS",
+          "value": 18667,
+          "color": "#563d7c"
+        }
+      ],
+      "contributions": "0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;4;0;0;0;0;0;1;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0",
+      "firstWeek": "2019-02-03Z",
+      "stars": 5792,
+      "license": "Other",
+      "description": "A sizzlin' hot selector engine.",
+      "latest_commit_date": "2019-10-21T16:59:44Z",
+      "latest_commit_link": "/jquery/sizzle/commit/af163873d7cdfc57f18b16c04b1915209533f0b1",
+      "release_date": "2014-07-01T15:10:21Z",
+      "release_link": "https://github.com/jquery/sizzle/releases",
+      "contributors_count": 55,
+      "contributors_link": "https://github.com/jquery/sizzle/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/jquery/sizzle/commit/51ba623126501dd9381040bbdcbabe12cc9056db",
+      "start_date": "2008-08-24T20:39:53Z"
+    },
+    "image_data": {
+      "fileName": "sizzle.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "firstCommitDate": "2008-08-24T20:39:53Z",
+    "firstCommitLink": "https://github.com/jquery/sizzle/commit/51ba623126501dd9381040bbdcbabe12cc9056db",
+    "latestCommitDate": {
+      "text": "4 months ago",
+      "value": "930",
+      "original": "2019-10-21T16:59:44Z"
+    },
+    "latestCommitLink": "https://github.com/jquery/sizzle/commit/af163873d7cdfc57f18b16c04b1915209533f0b1",
+    "releaseDate": "2014-07-01T15:10:21Z",
+    "releaseLink": "https://github.com/jquery/sizzle/releases",
+    "commitsThisYear": 20,
+    "contributorsCount": 55,
+    "contributorsLink": "https://github.com/jquery/sizzle/graphs/contributors",
+    "language": "JavaScript",
+    "stars": 5792,
+    "license": "Other",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/openjsf",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T22:02:12.000Z"
+    },
+    "description": "A sizzlin' hot selector engine.",
+    "organization": "OpenJS Foundation",
+    "crunchbaseData": {
+      "name": "OpenJS Foundation",
+      "description": "OpenJS Foundation specializes in the development of open-source infrastructure projects.",
+      "homepage": "https://openjsf.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/openjsf",
+      "linkedin": "https://www.linkedin.com/company/openjs-foundation/",
+      "parents": [
+        "https://www.crunchbase.com/organization/linux-foundation"
+      ],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_CATEGORY_1 / _CATEGORY_1D",
+    "landscape": "_CATEGORY_1 / _CATEGORY_1D",
+    "category": "_CATEGORY_1",
+    "oss": true,
+    "href": "logos/sizzle.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "sizzle",
+    "member": false,
+    "relation": "_CATEGORY_1E_ID",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Google (member)",
+    "homepage_url": "https://www.microsoft.com/en-us/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/google",
+    "yahoo_finance_data": {
+      "market_cap": 1003523604480,
+      "effective_ticker": "GOOG"
+    },
+    "image_data": {
+      "fileName": "google-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Mountain View, California",
+    "twitter": "https://twitter.com/google",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-31T13:03:53.000Z"
+    },
+    "description": "Google is a multinational corporation that specializes in Internet-related services and products.",
+    "organization": "Google",
+    "crunchbaseData": {
+      "name": "Google",
+      "description": "Google is a multinational corporation that specializes in Internet-related services and products.",
+      "homepage": "http://www.google.com/",
+      "city": "Mountain View",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/google",
+      "linkedin": "https://www.linkedin.com/company/google",
+      "parents": [
+        "https://www.crunchbase.com/organization/alphabet"
+      ],
+      "ticker": "GOOG",
+      "kind": "market_cap",
+      "numEmployeesMin": 10001,
+      "numEmployeesMax": 1000000
+    },
+    "path": "_PROJECT_NAME Members / _MEMBERSHIP_LEVEL_1",
+    "landscape": "_PROJECT_NAME Members / _MEMBERSHIP_LEVEL_1",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "market_cap",
+    "amount": 1003523604480,
+    "oss": false,
+    "href": "logos/google-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "google-member",
+    "relation": "company",
+    "member": "_MEMBERSHIP_LEVEL_1",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "IBM (member)",
+    "homepage_url": "https://www.ibm.com/us-en/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/ibm",
+    "yahoo_finance_data": {
+      "market_cap": 121128574976,
+      "effective_ticker": "IBM"
+    },
+    "image_data": {
+      "fileName": "ibm-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Armonk, New York",
+    "twitter": "https://twitter.com/IBM",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T23:35:28.000Z"
+    },
+    "description": "IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.",
+    "organization": "IBM",
+    "crunchbaseData": {
+      "name": "IBM",
+      "description": "IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.",
+      "homepage": "http://www.ibm.com/",
+      "city": "Armonk",
+      "region": "New York",
+      "country": "United States",
+      "twitter": "http://twitter.com/IBM",
+      "linkedin": "https://www.linkedin.com/company/ibm/",
+      "parents": [],
+      "ticker": "IBM",
+      "kind": "market_cap",
+      "numEmployeesMin": 10001,
+      "numEmployeesMax": 1000000
+    },
+    "path": "_PROJECT_NAME Members / _MEMBERSHIP_LEVEL_1",
+    "landscape": "_PROJECT_NAME Members / _MEMBERSHIP_LEVEL_1",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "market_cap",
+    "amount": 121128574976,
+    "oss": false,
+    "href": "logos/ibm-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "ibm-member",
+    "relation": "company",
+    "member": "_MEMBERSHIP_LEVEL_1",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Joyent (member)",
+    "homepage_url": "https://www.joyent.com",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/joyent",
+    "image_data": {
+      "fileName": "joyent-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/joyent",
+    "latestTweetDate": {
+      "text": "about a month",
+      "value": "960",
+      "original": "2019-12-23T19:45:05.000Z"
+    },
+    "description": "Joyent is a cloud infrastructure and big data analytics company offering a solution that powers real-time web and mobile applications.",
+    "organization": "Joyent",
+    "crunchbaseData": {
+      "name": "Joyent",
+      "description": "Joyent is a cloud infrastructure and big data analytics company offering a solution that powers real-time web and mobile applications.",
+      "homepage": "http://www.joyent.com",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "http://twitter.com/joyent",
+      "linkedin": "https://www.linkedin.com/company/joyent",
+      "parents": [],
+      "kind": "funding",
+      "funding": 130999998,
+      "numEmployeesMin": 101,
+      "numEmployeesMax": 250
+    },
+    "path": "_PROJECT_NAME Members / _MEMBERSHIP_LEVEL_1",
+    "landscape": "_PROJECT_NAME Members / _MEMBERSHIP_LEVEL_1",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "funding",
+    "amount": 130999998,
+    "oss": false,
+    "href": "logos/joyent-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "joyent-member",
+    "relation": "company",
+    "member": "_MEMBERSHIP_LEVEL_1",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Microsoft (member)",
+    "homepage_url": "https://www.microsoft.com/en-us/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/microsoft",
+    "yahoo_finance_data": {
+      "market_cap": 1314173222912,
+      "effective_ticker": "MSFT"
+    },
+    "image_data": {
+      "fileName": "microsoft-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Redmond, Washington",
+    "twitter": "https://twitter.com/Microsoft",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T23:44:00.000Z"
+    },
+    "description": "Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.",
+    "organization": "Microsoft",
+    "crunchbaseData": {
+      "name": "Microsoft",
+      "description": "Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.",
+      "homepage": "http://www.microsoft.com",
+      "city": "Redmond",
+      "region": "Washington",
+      "country": "United States",
+      "twitter": "http://twitter.com/Microsoft",
+      "linkedin": "https://www.linkedin.com/company/microsoft",
+      "parents": [],
+      "ticker": "MSFT",
+      "kind": "market_cap",
+      "numEmployeesMin": 10001,
+      "numEmployeesMax": 1000000
+    },
+    "path": "_PROJECT_NAME Members / _MEMBERSHIP_LEVEL_1",
+    "landscape": "_PROJECT_NAME Members / _MEMBERSHIP_LEVEL_1",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "market_cap",
+    "amount": 1314173222912,
+    "oss": false,
+    "href": "logos/microsoft-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "microsoft-member",
+    "relation": "company",
+    "member": "_MEMBERSHIP_LEVEL_1",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "GoDaddy (member)",
+    "homepage_url": "https://www.godaddy.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/godaddy",
+    "yahoo_finance_data": {
+      "market_cap": 12024586240,
+      "effective_ticker": "GDDY"
+    },
+    "image_data": {
+      "fileName": "go-daddy-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Scottsdale, Arizona",
+    "twitter": "https://twitter.com/GoDaddy",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T22:54:14.000Z"
+    },
+    "description": "GoDaddy is an internet domain registrar and web hosting company facilitating online businesses.",
+    "organization": "GoDaddy",
+    "crunchbaseData": {
+      "name": "GoDaddy",
+      "description": "GoDaddy is an internet domain registrar and web hosting company facilitating online businesses.",
+      "homepage": "http://godaddy.com",
+      "city": "Scottsdale",
+      "region": "Arizona",
+      "country": "United States",
+      "twitter": "http://twitter.com/GoDaddy",
+      "linkedin": "https://www.linkedin.com/company/godaddy",
+      "parents": [],
+      "ticker": "GDDY",
+      "kind": "market_cap",
+      "numEmployeesMin": 1001,
+      "numEmployeesMax": 5000
+    },
+    "path": "_PROJECT_NAME Members / Gold",
+    "landscape": "_PROJECT_NAME Members / Gold",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "market_cap",
+    "amount": 12024586240,
+    "oss": false,
+    "href": "logos/go-daddy-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "go-daddy-member",
+    "relation": "company",
+    "member": "Gold",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Intel (member)",
+    "homepage_url": "https://www.intel.com/content/www/us/en/homepage.html",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/intel",
+    "yahoo_finance_data": {
+      "market_cap": 284292186112,
+      "effective_ticker": "INTC"
+    },
+    "image_data": {
+      "fileName": "intel-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Santa Clara, California",
+    "twitter": "https://twitter.com/intel",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T23:04:14.000Z"
+    },
+    "description": "Intel designs, manufactures, and sells integrated digital technology platforms worldwide.",
+    "organization": "Intel",
+    "crunchbaseData": {
+      "name": "Intel",
+      "description": "Intel designs, manufactures, and sells integrated digital technology platforms worldwide.",
+      "homepage": "http://www.intel.com/",
+      "city": "Santa Clara",
+      "region": "California",
+      "country": "United States",
+      "twitter": "http://twitter.com/intel",
+      "linkedin": "https://www.linkedin.com/company/intel-corporation",
+      "parents": [],
+      "ticker": "INTC",
+      "kind": "market_cap",
+      "numEmployeesMin": 10001,
+      "numEmployeesMax": 1000000
+    },
+    "path": "_PROJECT_NAME Members / Gold",
+    "landscape": "_PROJECT_NAME Members / Gold",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "market_cap",
+    "amount": 284292186112,
+    "oss": false,
+    "href": "logos/intel-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "intel-member",
+    "relation": "company",
+    "member": "Gold",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "BrowserStack (member)",
+    "homepage_url": "https://www.browserstack.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/browserstack",
+    "image_data": {
+      "fileName": "browser-stack-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Mumbai, India",
+    "twitter": "https://twitter.com/browserstack",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-31T08:17:37.000Z"
+    },
+    "description": "BrowserStack is the most reliable web and mobile app testing platform on the market.",
+    "organization": "BrowserStack",
+    "crunchbaseData": {
+      "name": "BrowserStack",
+      "description": "BrowserStack is the most reliable web and mobile app testing platform on the market.",
+      "homepage": "http://www.browserstack.com/",
+      "city": "Mumbai",
+      "region": "Maharashtra",
+      "country": "India",
+      "twitter": "http://twitter.com/browserstack",
+      "linkedin": "https://www.linkedin.com/company/2553488/",
+      "parents": [],
+      "kind": "funding",
+      "funding": 50000000,
+      "numEmployeesMin": 251,
+      "numEmployeesMax": 500
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "funding",
+    "amount": 50000000,
+    "oss": false,
+    "href": "logos/browser-stack-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "browser-stack-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Cloud Grey (member)",
+    "homepage_url": "https://cloudgrey.io/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/cloud-grey",
+    "image_data": {
+      "fileName": "cloud-grey-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Vancouver, Canada",
+    "twitter": "https://twitter.com/cloudgrey_io",
+    "latestTweetDate": {
+      "text": "4 months ago",
+      "value": "930",
+      "original": "2019-10-10T21:15:00.000Z"
+    },
+    "description": "Achieve mobile testing greatness with Cloud Grey",
+    "organization": "Cloud Grey",
+    "crunchbaseData": {
+      "name": "Cloud Grey",
+      "description": "Achieve mobile testing greatness with Cloud Grey",
+      "homepage": "https://cloudgrey.io/",
+      "city": "Vancouver",
+      "region": "British Columbia",
+      "country": "Canada",
+      "twitter": "https://twitter.com/cloudgrey_io",
+      "linkedin": null,
+      "parents": [],
+      "numEmployeesMin": 1,
+      "numEmployeesMax": 10
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "oss": false,
+    "href": "logos/cloud-grey-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "cloud-grey-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "COIL (member)",
+    "homepage_url": "https://coil.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/coil-technologies",
+    "image_data": {
+      "fileName": "coil-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/coil",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T17:12:59.000Z"
+    },
+    "description": "Web, Content, Monetization",
+    "organization": "Coil",
+    "crunchbaseData": {
+      "name": "Coil",
+      "description": "Web, Content, Monetization",
+      "homepage": "https://coil.com/",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/coil",
+      "linkedin": "https://linkedin.com/company/coilhq",
+      "parents": [],
+      "kind": "funding",
+      "funding": 269000000,
+      "numEmployeesMin": 11,
+      "numEmployeesMax": 50
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "funding",
+    "amount": 269000000,
+    "oss": false,
+    "href": "logos/coil-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "coil-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Datree (member)",
+    "homepage_url": "https://www.datree.io/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/datree-io",
+    "image_data": {
+      "fileName": "datree-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/datreeio",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T23:05:09.000Z"
+    },
+    "description": "Datree provides a Visibility and Governance solution to R&D organisations.",
+    "organization": "Datree",
+    "crunchbaseData": {
+      "name": "Datree",
+      "description": "Datree provides a Visibility and Governance solution to R&D organisations.",
+      "homepage": "https://www.datree.io",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "http://twitter.com/datreeio",
+      "linkedin": "https://www.linkedin.com/company/18163472",
+      "parents": [],
+      "kind": "funding",
+      "funding": 3000000,
+      "numEmployeesMin": 1,
+      "numEmployeesMax": 10
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "funding",
+    "amount": 3000000,
+    "oss": false,
+    "href": "logos/datree-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "datree-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Fidelity Investments (member)",
+    "homepage_url": "https://fidelity.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/fidelity-investments",
+    "image_data": {
+      "fileName": "fidelity-investments-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Boston, Massachusetts",
+    "twitter": "https://twitter.com/Fidelity",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T21:24:20.000Z"
+    },
+    "description": "Fidelity is a privately owned investment manager.",
+    "organization": "Fidelity",
+    "crunchbaseData": {
+      "name": "Fidelity",
+      "description": "Fidelity is a privately owned investment manager.",
+      "homepage": "https://www.fidelity.com/",
+      "city": "Boston",
+      "region": "Massachusetts",
+      "country": "United States",
+      "twitter": "https://twitter.com/Fidelity",
+      "linkedin": "https://www.linkedin.com/company/fidelity-investments/",
+      "parents": [],
+      "numEmployeesMin": 10001,
+      "numEmployeesMax": 1000000
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "oss": false,
+    "href": "logos/fidelity-investments-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "fidelity-investments-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Groupon (member)",
+    "homepage_url": "https://www.groupon.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/groupon",
+    "yahoo_finance_data": {
+      "market_cap": 1671612672,
+      "effective_ticker": "GRPN"
+    },
+    "image_data": {
+      "fileName": "groupon-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Chicago, Illinois",
+    "twitter": "https://twitter.com/groupon",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-31T00:44:00.000Z"
+    },
+    "description": "Groupon is a deal-of-the-day website that offers discounted gift certificates usable at local or national companies.",
+    "organization": "Groupon",
+    "crunchbaseData": {
+      "name": "Groupon",
+      "description": "Groupon is a deal-of-the-day website that offers discounted gift certificates usable at local or national companies.",
+      "homepage": "http://www.groupon.com",
+      "city": "Chicago",
+      "region": "Illinois",
+      "country": "United States",
+      "twitter": "http://twitter.com/groupon",
+      "linkedin": "https://www.linkedin.com/company/groupon",
+      "parents": [],
+      "ticker": "GRPN",
+      "kind": "market_cap",
+      "numEmployeesMin": 1001,
+      "numEmployeesMax": 5000
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "market_cap",
+    "amount": 1671612672,
+    "oss": false,
+    "href": "logos/groupon-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "groupon-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "HackerOne (member)",
+    "homepage_url": "https://www.hackerone.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/hackerone",
+    "image_data": {
+      "fileName": "hacker-one-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/hacker0x01",
+    "latestTweetDate": {
+      "text": "last week",
+      "value": "980",
+      "original": "2020-01-25T19:53:26.000Z"
+    },
+    "description": "HackerOne is a powered security platform that connects businesses with penetration testers and cybersecurity researchers.",
+    "organization": "HackerOne",
+    "crunchbaseData": {
+      "name": "HackerOne",
+      "description": "HackerOne is a powered security platform that connects businesses with penetration testers and cybersecurity researchers.",
+      "homepage": "https://hackerone.com/",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "http://twitter.com/hacker0x01",
+      "linkedin": "https://www.linkedin.com/company/hackerone",
+      "parents": [],
+      "kind": "funding",
+      "funding": 110400000,
+      "numEmployeesMin": 251,
+      "numEmployeesMax": 500
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "funding",
+    "amount": 110400000,
+    "oss": false,
+    "href": "logos/hacker-one-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "hacker-one-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Nearform (member)",
+    "homepage_url": "https://www.nearform.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/nearform",
+    "image_data": {
+      "fileName": "nearform-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Waterford, Ireland",
+    "twitter": "https://twitter.com/nearform",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-31T09:36:19.000Z"
+    },
+    "description": "NearForm is a software platform that delivers consulting, co-development, products, training and support for large enterprises.",
+    "organization": "NearForm",
+    "crunchbaseData": {
+      "name": "NearForm",
+      "description": "NearForm is a software platform that delivers consulting, co-development, products, training and support for large enterprises.",
+      "homepage": "http://www.nearform.com",
+      "city": "Waterford",
+      "region": "Waterford",
+      "country": "Ireland",
+      "twitter": "http://twitter.com/nearform",
+      "linkedin": "https://www.linkedin.com/company/nearform",
+      "parents": [],
+      "numEmployeesMin": 101,
+      "numEmployeesMax": 250
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "oss": false,
+    "href": "logos/nearform-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "nearform-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Nodesource (member)",
+    "homepage_url": "https://www.nodesource.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/nodesource",
+    "image_data": {
+      "fileName": "nodesource-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/nodesource",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T19:17:01.000Z"
+    },
+    "description": "Building products focused on Node.js security and performance for the Enterprise.",
+    "organization": "NodeSource",
+    "crunchbaseData": {
+      "name": "NodeSource",
+      "description": "Building products focused on Node.js security and performance for the Enterprise.",
+      "homepage": "https://nodesource.com/",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/nodesource",
+      "linkedin": "https://www.linkedin.com/company/nodesource",
+      "parents": [],
+      "kind": "funding",
+      "funding": 33400000,
+      "numEmployeesMin": 11,
+      "numEmployeesMax": 50
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "funding",
+    "amount": 33400000,
+    "oss": false,
+    "href": "logos/nodesource-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "nodesource-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "npm (member)",
+    "homepage_url": "https://www.npmjs.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/npm",
+    "image_data": {
+      "fileName": "npm-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Oakland, California",
+    "twitter": "https://twitter.com/npmjs",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T20:41:02.000Z"
+    },
+    "description": "npm is the package manager for the JavaScript programming language.",
+    "organization": "npm",
+    "crunchbaseData": {
+      "name": "npm",
+      "description": "npm is the package manager for the JavaScript programming language.",
+      "homepage": "http://www.npmjs.com",
+      "city": "Oakland",
+      "region": "California",
+      "country": "United States",
+      "twitter": "http://twitter.com/npmjs",
+      "linkedin": "https://www.linkedin.com/company/3585636/",
+      "parents": [],
+      "kind": "funding",
+      "funding": 10600000,
+      "numEmployeesMin": 11,
+      "numEmployeesMax": 50
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "funding",
+    "amount": 10600000,
+    "oss": false,
+    "href": "logos/npm-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "npm-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Profound Logic (member)",
+    "homepage_url": "https://www.profoundlogic.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/profound-logic",
+    "image_data": {
+      "fileName": "profound-logic-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Dayton, Ohio",
+    "twitter": "https://twitter.com/profoundlogic",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T22:05:35.000Z"
+    },
+    "description": "Profound Logic provides comprehensive and native solutions for IBM i application development and modernization.",
+    "organization": "Profound Logic",
+    "crunchbaseData": {
+      "name": "Profound Logic",
+      "description": "Profound Logic provides comprehensive and native solutions for IBM i application development and modernization.",
+      "homepage": "http://www.profoundlogic.com/",
+      "city": "Dayton",
+      "region": "Ohio",
+      "country": "United States",
+      "twitter": "https://twitter.com/profoundlogic",
+      "linkedin": "https://www.linkedin.com/company/profound-logic-software/",
+      "parents": [],
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "oss": false,
+    "href": "logos/profound-logic-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "profound-logic-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Red Hat (member)",
+    "homepage_url": "https://www.redhat.com/en",
+    "stock_ticker": "IBM",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/red-hat",
+    "yahoo_finance_data": {
+      "market_cap": 121128574976,
+      "effective_ticker": "IBM"
+    },
+    "image_data": {
+      "fileName": "red-hat-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Raleigh, North Carolina",
+    "twitter": "https://twitter.com/redhat",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-31T12:34:46.000Z"
+    },
+    "description": "Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.",
+    "organization": "Red Hat",
+    "crunchbaseData": {
+      "name": "Red Hat",
+      "description": "Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.",
+      "homepage": "http://www.redhat.com",
+      "city": "Raleigh",
+      "region": "North Carolina",
+      "country": "United States",
+      "twitter": "http://twitter.com/redhat",
+      "linkedin": "https://www.linkedin.com/company/red-hat",
+      "parents": [
+        "https://www.crunchbase.com/organization/ibm"
+      ],
+      "ticker": "RHT",
+      "kind": "market_cap",
+      "numEmployeesMin": 5001,
+      "numEmployeesMax": 10000
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "market_cap",
+    "amount": 121128574976,
+    "oss": false,
+    "href": "logos/red-hat-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "red-hat-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "SafetyCulture (member)",
+    "homepage_url": "https://safetyculture.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/safetyculture",
+    "image_data": {
+      "fileName": "safety-culture-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Townsville, Australia",
+    "twitter": "https://twitter.com/SafetyCultureHQ",
+    "latestTweetDate": {
+      "text": "about a month",
+      "value": "960",
+      "original": "2020-01-06T16:11:54.000Z"
+    },
+    "description": "SafetyCulture is a software for mobile workplace safety and quality management.",
+    "organization": "SafetyCulture",
+    "crunchbaseData": {
+      "name": "SafetyCulture",
+      "description": "SafetyCulture is a software for mobile workplace safety and quality management.",
+      "homepage": "https://safetyculture.com/",
+      "city": "Townsville",
+      "region": "Queensland",
+      "country": "Australia",
+      "twitter": "http://twitter.com/SafetyCultureHQ",
+      "linkedin": "https://www.linkedin.com/company/safetyculture-pty-ltd",
+      "parents": [],
+      "kind": "funding",
+      "funding": 79397368,
+      "numEmployeesMin": 101,
+      "numEmployeesMax": 250
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "funding",
+    "amount": 79397368,
+    "oss": false,
+    "href": "logos/safety-culture-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "safety-culture-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Sauce Labs (member)",
+    "homepage_url": "https://saucelabs.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/sauce-labs",
+    "image_data": {
+      "fileName": "sauce-labs-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/saucelabs",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T17:38:56.000Z"
+    },
+    "description": "Sauce Labs provides cloud-based testing for mobile and web applications.",
+    "organization": "Sauce Labs",
+    "crunchbaseData": {
+      "name": "Sauce Labs",
+      "description": "Sauce Labs provides cloud-based testing for mobile and web applications.",
+      "homepage": "http://saucelabs.com/",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "http://twitter.com/saucelabs",
+      "linkedin": "https://www.linkedin.com/company/sauce-labs/",
+      "parents": [],
+      "kind": "funding",
+      "funding": 151000000,
+      "numEmployeesMin": 101,
+      "numEmployeesMax": 250
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "funding",
+    "amount": 151000000,
+    "oss": false,
+    "href": "logos/sauce-labs-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "sauce-labs-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "SitePen (member)",
+    "homepage_url": "https://www.sitepen.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/sitepen",
+    "image_data": {
+      "fileName": "site-pen-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Palo Alto, California",
+    "twitter": "https://twitter.com/SitePen",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-29T19:45:00.000Z"
+    },
+    "description": "SitePen is a software development company focusing on creating web applications for businesses.",
+    "organization": "SitePen",
+    "crunchbaseData": {
+      "name": "SitePen",
+      "description": "SitePen is a software development company focusing on creating web applications for businesses.",
+      "homepage": "http://www.sitepen.com",
+      "city": "Palo Alto",
+      "region": "California",
+      "country": "United States",
+      "twitter": "http://twitter.com/SitePen",
+      "linkedin": null,
+      "parents": [],
+      "numEmployeesMin": 11,
+      "numEmployeesMax": 50
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "oss": false,
+    "href": "logos/site-pen-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "site-pen-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Snyk (member)",
+    "homepage_url": "https://snyk.io/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/snyk",
+    "image_data": {
+      "fileName": "snyk-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "London, United Kingdom",
+    "twitter": "https://twitter.com/snyksec",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-31T11:07:02.000Z"
+    },
+    "description": "Snyk helps organizations find and fix vulnerabilities in open source dependencies and container images.",
+    "organization": "Snyk",
+    "crunchbaseData": {
+      "name": "Snyk",
+      "description": "Snyk helps organizations find and fix vulnerabilities in open source dependencies and container images.",
+      "homepage": "https://snyk.io",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "twitter": "https://www.twitter.com/snyksec",
+      "linkedin": "https://www.linkedin.com/company/snyk",
+      "parents": [],
+      "kind": "funding",
+      "funding": 252000000,
+      "numEmployeesMin": 101,
+      "numEmployeesMax": 250
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "funding",
+    "amount": 252000000,
+    "oss": false,
+    "href": "logos/snyk-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "snyk-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Sourcegraph (member)",
+    "homepage_url": "https://about.sourcegraph.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/sourcegraph",
+    "image_data": {
+      "fileName": "sourcegraph-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "twitter": "https://twitter.com/srcgraph",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-30T05:22:43.000Z"
+    },
+    "description": "Sourcegraph is creating the best way to read and understand code.",
+    "organization": "Sourcegraph",
+    "crunchbaseData": {
+      "name": "Sourcegraph",
+      "description": "Sourcegraph is creating the best way to read and understand code.",
+      "homepage": "https://sourcegraph.com",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "http://twitter.com/srcgraph",
+      "linkedin": "https://www.linkedin.com/company/sourcegraph",
+      "parents": [],
+      "kind": "funding",
+      "funding": 20000000,
+      "numEmployeesMin": 11,
+      "numEmployeesMax": 50
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "amountKind": "funding",
+    "amount": 20000000,
+    "oss": false,
+    "href": "logos/sourcegraph-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "sourcegraph-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "The Blog Starter (member)",
+    "homepage_url": "https://www.theblogstarter.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/the-blog-starter",
+    "image_data": {
+      "fileName": "the-blog-starter-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Chicago, Illinois",
+    "twitter": "https://twitter.com/BlogChow",
+    "latestTweetDate": {
+      "text": "2 months ago",
+      "value": "950",
+      "original": "2019-12-05T21:29:15.000Z"
+    },
+    "description": "a free, easy, step-by-step guide on how to start a blog",
+    "organization": "The Blog Starter",
+    "crunchbaseData": {
+      "name": "The Blog Starter",
+      "description": "a free, easy, step-by-step guide on how to start a blog",
+      "homepage": "https://www.theblogstarter.com/",
+      "city": "Chicago",
+      "region": "Illinois",
+      "country": "United States",
+      "twitter": "https://twitter.com/BlogChow",
+      "linkedin": null,
+      "parents": [],
+      "numEmployeesMin": 1,
+      "numEmployeesMax": 10
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "oss": false,
+    "href": "logos/the-blog-starter-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "the-blog-starter-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "Vincit (member)",
+    "homepage_url": "https://www.vincit.com/",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/vincit-oy",
+    "image_data": {
+      "fileName": "vincit-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "Tampere, Finland",
+    "twitter": "https://twitter.com/vincitcali",
+    "latestTweetDate": {
+      "text": "last week",
+      "value": "980",
+      "original": "2020-01-28T17:54:16.000Z"
+    },
+    "description": "Vincit is Software development expert.",
+    "organization": "Vincit",
+    "crunchbaseData": {
+      "name": "Vincit",
+      "description": "Vincit is Software development expert.",
+      "homepage": "http://www.vincit.fi/",
+      "city": "Tampere",
+      "region": "Western Finland",
+      "country": "Finland",
+      "twitter": "https://twitter.com/vincitcali",
+      "linkedin": "https://www.linkedin.com/company/vincit-oy",
+      "parents": [],
+      "numEmployeesMin": 251,
+      "numEmployeesMax": 500
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "oss": false,
+    "href": "logos/vincit-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "vincit-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  },
+  {
+    "name": "YLD (member)",
+    "homepage_url": "https://www.yld.io",
+    "logo": "placeholder.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/yld",
+    "image_data": {
+      "fileName": "yld-member.svg",
+      "hash": "3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog="
+    },
+    "project": "company",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "commitsThisYear": 0,
+    "language": null,
+    "license": "NotOpenSource",
+    "headquarters": "London, United Kingdom",
+    "twitter": "https://twitter.com/yldio",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2020-01-31T09:00:54.000Z"
+    },
+    "description": "YLD helps enterprises win by delivering mission critical software built by the best web engineers in Europe",
+    "organization": "YLD",
+    "crunchbaseData": {
+      "name": "YLD",
+      "description": "YLD helps enterprises win by delivering mission critical software built by the best web engineers in Europe",
+      "homepage": "https://yld.io/",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "twitter": "https://twitter.com/yldio",
+      "linkedin": "https://www.linkedin.com/company/5045725",
+      "parents": [],
+      "numEmployeesMin": 101,
+      "numEmployeesMax": 250
+    },
+    "path": "_PROJECT_NAME Members / Silver",
+    "landscape": "_PROJECT_NAME Members / Silver",
+    "category": "_PROJECT_NAME Members",
+    "oss": false,
+    "href": "logos/yld-member.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "yld-member",
+    "relation": "company",
+    "member": "Silver",
+    "isSubsidiaryProject": false
+  }
+]
