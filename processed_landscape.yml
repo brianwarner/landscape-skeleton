@@ -1,16 +1,15 @@
 # THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
-    name: CATEGORY_1
+    name: DEMO CATEGORY
     subcategories:
       - subcategory:
         name: CATEGORY_1A
         items:
           - item:
-            name: ITEM_1A1
+            name: Standard landscape entry
             homepage_url: 'https://cncf.io/'
             project: CATEGORY_1A_ID
-            repo_url: 'https://github.com/cncf/landscape'
             logo: placeholder.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
             crunchbase_data:
@@ -24,6 +23,34 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/CloudNativeFdn'
               linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            image_data:
+              fileName: standard-landscape-entry.svg
+              hash: 3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-02-04T19:20:38.000Z
+          - item:
+            name: ITEM_1A2
+            homepage_url: 'https://openjsf.org/'
+            repo_url: 'https://github.com/cncf/landscape'
+            project: CATEGORY_1A_ID
+            logo: placeholder.svg
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
@@ -42,40 +69,13 @@ landscape:
               start_commit_link: /cncf/landscape/commit/35d9c271abaf74cf817a44a3056790f9da56c69b
               start_date: '2016-11-04T19:30:00Z'
             image_data:
-              fileName: item-1-a1.svg
+              fileName: item-1-a2.svg
               hash: 3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog=
             best_practice_data:
               badge: 1767
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2020-02-04T19:20:38.000Z
-          - item:
-            name: ITEM_1A2
-            homepage_url: 'https://cncf.io/'
-            project: CATEGORY_1A_ID
-            logo: placeholder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
-            crunchbase_data:
-              name: Cloud Native Computing Foundation (CNCF)
-              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://www.cncf.io'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/CloudNativeFdn'
-              linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-            image_data:
-              fileName: item-1-a2.svg
-              hash: 3faSri157Qbyzw7K6CTUwbzjXj5fLs06xkD77MwmFog=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-02-04T19:20:38.000Z
+              latest_tweet_date: 2020-02-05T19:30:13.000Z
           - item:
             name: ITEM_1A3
             homepage_url: 'https://cncf.io/'
